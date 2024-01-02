@@ -14,7 +14,7 @@
 
 
 <p align="center"> <a href="https://twitter.com/kabilan131?s=09" target="blank"><img
-      src="https://img.shields.io/twitter/follow/kabilan131?s=09?logo=twitter&style=for-the-badge" alt="Kabilan K" /></a> </p>
+      src="https://img.shields.io/twitter/follow/kabilankavi131?logo=twitter&style=for-the-badge" alt="Kabilan K" /></a> </p>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding" align="right" width="400">
 
 # My GitHub Profile
@@ -77,7 +77,7 @@ Feel free to contact me for any inquiries or to collaborate on a project.
   </a>
   <a href="https://github.com/kabilankavi131/">
     <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=kabilankavi131&theme=jolly&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=kabilankavi131&theme=jolly&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40"
       width="380" />
   </a>
   <a href="https://github.com/syipmong">
