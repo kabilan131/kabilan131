@@ -86,8 +86,7 @@ Feel free to contact me for any inquiries or to collaborate on a project.
 </p>
 
 
-## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about
-  me 👋</b>
+## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
 
 [![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:kabilankavi131@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/kabilan131?s=09)
