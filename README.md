@@ -1,5 +1,4 @@
-<p align="center"> <img align="center" src="https://thumbs.gfycat.com/OrdinaryIcyDuiker-max-1mb.gif" alt="coding"
-    width="400" height="400" />
+<p align="center"> 
 </p>
 <h1 align="center">👋 Hello there!</h1>
 <p align='center'>I'm Kabilan!, a Artificial Intelligence and Data Science student with a passion for open source and cutting-edge
